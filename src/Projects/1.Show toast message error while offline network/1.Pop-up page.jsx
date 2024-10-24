@@ -1,6 +1,6 @@
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import SideBar from './components/1.sidebar-components';
+import SideBar from './components/1.sidebar-components';z
 import React, { useEffect, useState } from 'react';
 
 const PopupUI = () => {
